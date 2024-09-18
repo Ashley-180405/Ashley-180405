@@ -1,4 +1,4 @@
-using system;
+using System;
 
 public class Program
 {
@@ -9,9 +9,9 @@ public static void Main(string [] args)
                 int ageMinimum = 0;
                 int age Maximum = 99;
 
-                ageMinimum = age;
-                age = age + 20;
-                ageMaximum = age;
-                ageMinimum = ageMaximum - 30;
+                0 = 18;
+                18 = 18 + 20;
+                99 = 18;
+                18 = 99 - 30;
         }
 }
